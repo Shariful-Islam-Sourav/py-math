@@ -30,9 +30,21 @@ The project generates:
 - score_bar_chart.png
 - score_prediction.png
 
-## Visualization Explanation
+# Graphs Examples
+
+## Function Plot
+![Function Plot](function_plot.png)
+
+## Score Prediction
+![Score Prediction](score_prediction.png)
+
+## Short Visualization Explanation
+#### How does visualization help us understand mathematical functions and data? 
 Visualization helps us understand patterns, relationships, and trends in mathematical functions and datasets more clearly.
 
+#### Which plot was most useful in this assignment and why?
 The most useful plot in this assignment was the best-fit prediction graph because it shows how midterm scores are related to final scores and helps make predictions.
+
+#### What is the role of NumPy and Matplotlib in your project?
 
 NumPy was used for mathematical calculations and data processing, while Matplotlib was used to create and save all visualizations.
